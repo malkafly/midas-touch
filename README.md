@@ -7,5 +7,4 @@ Fell free to fork and contribute.
 
 
 made by @malkafly and @rodrigoalviani
-special thanks:
-@robsixplay
+special thanks to @robsixplay
